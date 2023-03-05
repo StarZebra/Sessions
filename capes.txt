@@ -1,3 +1,4 @@
 {
-  "c1f915eaac1596bd35ba5a8540689fb320a9ea864b2275fe75a4e1c69d225db8": "cape1"
+  "c1f915eaac1596bd35ba5a8540689fb320a9ea864b2275fe75a4e1c69d225db8": "cape1",
+  "test": "test"
 }
